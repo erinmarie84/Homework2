@@ -8,10 +8,10 @@ header{
 }
 
 
-.henry{ 
+.erin{ 
 
-    width: 250px;
-    height: 300px;
+    width: 200ßpx;
+    height: 250px;
     padding: 25px;
     align: left;
 }
@@ -29,5 +29,5 @@ header{
 }
 
 .p1{
-    text-align: center;
+    text-align: right;
 }
