@@ -13,11 +13,21 @@ header{
     width: 250px;
     height: 300px;
     padding: 25px;
-    float: left;
+    align: left;
 }
 
 .about-me{
 
     text-align: center;
+    background-color: antiquewhite;
+}
 
+.container nav{
+
+    background-color: cornsilk;
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
 }
