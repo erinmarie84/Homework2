@@ -5,29 +5,52 @@ header{
     height: 100px;
     border: 22px;
     margin: 10px;
-}
+    width: 100%;
 
 
-.erin{ 
-
-    width: 200ßpx;
-    height: 250px;
-    padding: 25px;
-    align: left;
 }
 
 .about-me{
 
     text-align: center;
     background-color: antiquewhite;
+    width: 100%;
+    margin: 10px;
+    padding: 25px;
+    border: 22px;
 }
 
-.container nav{
+.nav{
 
-    background-color: cornsilk;
+    background-color: lightgray;
     text-align: center;
+    margin: 10px;
+    padding: 25px;
+    border: 22px;
+    width: 100%;
+    
 }
 
-.p1{
-    text-align: right;
+.p2{
+
+    border: 25px;
+    margin: 10px;
 }
+
+
+.portfolio{ 
+
+    text-align: center;
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 25px;
+    border: 22px;
+
+}
+
+.form-group {
+
+    margin: 10px;
+
+}
+
